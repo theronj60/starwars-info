@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <p>start here</p>
-  </div>
+  <h1>Home Page</h1>
 </template>
 
 <script>
